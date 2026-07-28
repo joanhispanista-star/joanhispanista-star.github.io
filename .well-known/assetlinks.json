@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.joanhispanistastar.socios",
+      "sha256_cert_fingerprints": ["4A:CA:01:1F:52:73:D7:80:81:56:D1:74:B5:97:EE:F5:9E:8E:44:EC:25:53:D7:39:08:99:84:18:9C:55:38:FA"]
+    }
+  }
+]
