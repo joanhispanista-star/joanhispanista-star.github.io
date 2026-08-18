@@ -6,5 +6,13 @@
       "package_name": "io.github.joanhispanistastar.socios",
       "sha256_cert_fingerprints": ["4A:CA:01:1F:52:73:D7:80:81:56:D1:74:B5:97:EE:F5:9E:8E:44:EC:25:53:D7:39:08:99:84:18:9C:55:38:FA"]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "co.tugarantia.socio",
+      "sha256_cert_fingerprints": ["E5:FB:DE:62:2E:69:98:9F:2E:3E:02:F6:BE:86:D8:96:76:84:1F:21:B1:C4:E8:58:08:40:53:21:25:65:90:B3"]
+    }
   }
 ]
